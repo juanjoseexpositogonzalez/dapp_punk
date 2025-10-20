@@ -1,6 +1,7 @@
 {
-  "name": "react_hardhat_template",
+  "name": "dapp_punks",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -9,6 +10,7 @@
     "bootstrap": "^5.2.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
+    "react-countdown": "^2.3.2",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -19,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "author": "gregory@dappuniversity.com",
+  "author": "expositogonzalez.juanjose@gmail.com",
   "license": "ISC",
   "eslintConfig": {
     "extends": [
