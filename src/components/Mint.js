@@ -2,7 +2,6 @@ import { useState } from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import Spinner from 'react-bootstrap/Spinner';
-// import { ethers } from 'ethers'
 
 const Mint = ({ provider, nft, cost, setIsLoading }) => {
     const [isWaiting, setIsWaiting] = useState(false);

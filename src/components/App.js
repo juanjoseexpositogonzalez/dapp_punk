@@ -84,7 +84,7 @@ function App() {
               {balance > 0 ? (
                 <div className='text-center'>
                   <img
-                    src={`https://gateway.pinata.cloud/ipfs/bafybeidpuzq54zqnmgq5lsbegxwrwkgrt72545l3pyj6c4y3qsprfamu6u/${balance.toString()}.png`}
+                    src={`https://blush-impressed-reindeer-78.mypinata.cloud/bafybeidpuzq54zqnmgq5lsbegxwrwkgrt72545l3pyj6c4y3qsprfamu6u/${balance.toString()}.png`}
                     alt="Open Punk"
                     width="400px"
                     height="400px"
